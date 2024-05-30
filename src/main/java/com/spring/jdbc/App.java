@@ -33,6 +33,7 @@ public class App
 //        int rows = std.insert(student);
 //        System.out.println("The number of rows inserted... "+rows);
         
+        
           //UPDATE
 //        Student student = new Student();
 //        student.setCity("Guwahati");
